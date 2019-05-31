@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="George5" size="1.000000 1.593750" />
+    <ImageTarget name="George4" size="1.000000 1.605357" />
+    <ImageTarget name="George3" size="1.000000 1.234568" />
+    <ImageTarget name="George2" size="1.000000 0.640833" />
+    <ImageTarget name="George1" size="1.000000 1.216216" />
+    <ImageTarget name="abstractArt" size="1.000000 1.367989" />
+    <ImageTarget name="Ghandi2" size="1.000000 0.691667" />
+    <ImageTarget name="Ghandi1" size="1.000000 1.502504" />
+    <ImageTarget name="StarryNight" size="1.000000 0.798580" />
+    <ImageTarget name="TheLastSupper" size="1.000000 0.500000" />
+    <ImageTarget name="sparsePainting" size="1.000000 0.427900" />
+    <ImageTarget name="augmentedImagesBad2" size="1.000000 1.081818" />
+    <ImageTarget name="augmentedImagesBad" size="1.000000 0.662500" />
+    <ImageTarget name="Leaves" size="1.000000 1.000000" />
+    <ImageTarget name="Image1" size="1.000000 1.001112" />
+  </Tracking>
+</QCARConfig>
